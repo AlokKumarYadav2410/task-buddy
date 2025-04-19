@@ -17,10 +17,11 @@ Welcome to **TaskBuddy**! 🎉 TaskBuddy 📝 is a simple and intuitive task man
 
 ## 🎨 Screenshots
 
-<img alt="TaskBuddy Home Page" src="/src/assets/home.png" width='48%'>&nbsp;&nbsp;<img alt="task-list" src="/src/assets/task.png" width='48%'>
+<img alt="TaskBuddy Home Page" src="/src/assets/home.png">
+<img alt="task-list" src="/src/assets/task.png">
 
 ## 🌐 Live Demo
-Check out the live demo here: 🔗 [TaskBuddy Live Demo](https://resume-generator-rouge.vercel.app) 🌍
+Check out the live demo here: 🔗 [TaskBuddy Live Demo](https://task-buddy-iota.vercel.app) 🌍
 
 ## 🌟 Features
 
@@ -45,7 +46,7 @@ Follow these steps to run TaskBuddy on your local machine:
 ### 1️⃣ Clone the Repository
     git clone https://github.com/AlokKumarYadav2410/task-buddy
     
-    cd taskbuddy
+    cd task-buddy
 
 ### 2️⃣ Install Dependencies
     npm install
