@@ -2,22 +2,25 @@
 
 Welcome to **TaskBuddy**! 🎉 TaskBuddy is a simple and intuitive task management app built with **React** and **Vite**. It helps you stay organized and track your progress effortlessly. 🚀
 
----
-
 ## 📚 Table of Contents
 
+- [🎨 Screenshots](#-screenshots)  
+- [🌐 Live Demo](#-live-demo)  
 - [🌟 Features](#-features)  
 - [🖥️ Tech Stack](#️-tech-stack)  
 - [🚀 Getting Started](#-getting-started)  
-- [🌐 Live Demo](#-live-demo)  
 - [📂 Project Structure](#-project-structure)  
-- [🎨 Screenshots](#-screenshots)  
 - [🤝 Contributing](#-contributing)  
 - [📜 License](#-license)  
 - [❤️ Acknowledgments](#-acknowledgments)  
-- [🌐 Connect with Me](#-connect-with-me)  
+- [🌐 Connect with Me](#-connect-with-me)
 
----
+## 🎨 Screenshots
+
+<img alt="TaskBuddy Home Page" src="/src/assets/home.png" width='48%'>&nbsp;&nbsp;<img alt="task-list" src="/src/assets/task.png" width='48%'>
+
+## 🌐 Live Demo
+Check out the live demo here: 🔗 [TaskBuddy Live Demo](https://resume-generator-rouge.vercel.app) 🌍
 
 ## 🌟 Features
 
@@ -28,8 +31,6 @@ Welcome to **TaskBuddy**! 🎉 TaskBuddy is a simple and intuitive task manageme
 📊 **Progress Tracker**: Visualize your progress and stay motivated.  
 💾 **Persistent Storage**: Your tasks are saved in your browser's local storage, so they won't disappear on refresh! 🔄  
 
----
-
 ## 🖥️ Tech Stack
 
 - **Frontend**: React ⚛️  
@@ -37,14 +38,13 @@ Welcome to **TaskBuddy**! 🎉 TaskBuddy is a simple and intuitive task manageme
 - **Styling**: CSS 🎨  
 - **State Management**: React Hooks (useState, useEffect) 🪝  
 
----
-
 ## 🚀 Getting Started
 
 Follow these steps to run TaskBuddy on your local machine:
 
 ### 1️⃣ Clone the Repository
-    git clone https://github.com/your-username/taskbuddy.git
+    git clone https://github.com/AlokKumarYadav2410/task-buddy
+    
     cd taskbuddy
 
 ### 2️⃣ Install Dependencies
@@ -53,9 +53,8 @@ Follow these steps to run TaskBuddy on your local machine:
     npm run dev
 ### 4️⃣ Open in Browser
     Visit http://localhost:5173 to see TaskBuddy in action! 🎉
-
-## 🌐 Live Demo
-Check out the live demo here: TaskBuddy Live Demo 🌍
+    or
+    http://localhost:5174
 
 ## 📂 Project Structure
 
@@ -67,11 +66,9 @@ Check out the live demo here: TaskBuddy Live Demo 🌍
     │   ├── Style.css         # Global styles
     │   └── main.jsx          # Entry point
     ├── package.json          # Project dependencies and scripts
-    └── [README.md](http://_vscodecontentref_/1)             # Project documentation
+    └── README.md             # Project documentation
 
-## 🎨 Screenshots
 
-<img alt="TaskBuddy Home Page" src="../task-buddy/src/assets/home.png" width='48%'>&nbsp;&nbsp;<img alt="task-list" src="../task-buddy/src/assets/task.png" width='48%'>
 
 ## 🤝 Contributing
 We welcome contributions! 🛠️ If you'd like to improve TaskBuddy, follow these steps:
@@ -83,16 +80,16 @@ We welcome contributions! 🛠️ If you'd like to improve TaskBuddy, follow the
 5. Open a pull request.
 
 ## 📜 License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you like. 📄
+- This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ## ❤️ Acknowledgments
 - Built with love by Alok Kumar Yadav.
 - Inspired by the need for simple and effective task management.
 
 ## 🌐 Connect with Me
-Let's connect and collaborate!
-- GitHub: your-username
-- LinkedIn: Your LinkedIn Profile
+- Let's connect and collaborate!
+    - 📧 Linkedin: [ALOK KUMAR YADAV](https://www.linkedin.com/in/alokkumaryadav2410) 
+    - 🐙 GitHub: [AlokKumarYadav2410](https://github.com/AlokKumarYadav2410)
 
 ---
 **TaskBuddy**: Simplify your life, one task at a time! ✨
