@@ -1,6 +1,6 @@
 # 📝 TaskBuddy - Your Friendly Task Manager
 
-Welcome to **TaskBuddy**! 🎉 TaskBuddy is a simple and intuitive task management app built with **React** and **Vite**. It helps you stay organized and track your progress effortlessly. 🚀
+Welcome to **TaskBuddy**! 🎉 TaskBuddy 📝 is a simple and intuitive task management app built with **React** ⚛️ and **Vite** ⚡. It helps you stay organized, track your progress 📊, and manage your tasks effortlessly with features like persistent storage 💾 and a progress tracker. 🚀
 
 ## 📚 Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to **TaskBuddy**! 🎉 TaskBuddy is a simple and intuitive task manageme
 - [📂 Project Structure](#-project-structure)  
 - [🤝 Contributing](#-contributing)  
 - [📜 License](#-license)  
-- [❤️ Acknowledgments](#-acknowledgments)  
+- [❤️ Acknowledgments](#%EF%B8%8F-acknowledgments)  
 - [🌐 Connect with Me](#-connect-with-me)
 
 ## 🎨 Screenshots
